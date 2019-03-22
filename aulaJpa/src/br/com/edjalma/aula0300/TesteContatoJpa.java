@@ -37,6 +37,7 @@ public class TesteContatoJpa {
 					c.getNome(), c.getEndereco(), c.getTelefone());
 
 		}
+		System.out.println("Test commit");
 
 	}
 
